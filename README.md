@@ -29,7 +29,7 @@ Abaixo estão os endpoints disponíveis na API:
   `PUT /update/pk`
 
 - **Excluir uma tarefa existente**:  
-  `DELETE /tarefa/pk/delete`
+  `DELETE /delete/pk`
 
 ## Instalação
 
