@@ -15,7 +15,7 @@ def ApiOverview(request):
         'Search by data_criacao': '/?data_criacao=yyyy-mm-dd',
         'Add': '/create',
         'Update': '/update/pk',
-        'Delete': '/tarefa/pk/delete'
+        'Delete': '/delete/pk'
     }
 
     return Response(api_urls)
